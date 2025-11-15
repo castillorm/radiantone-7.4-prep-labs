@@ -1,3 +1,50 @@
+# RadiantOne Pre-Study Labs & Training Preparation  
+A structured, sanitized learning resource designed to help engineers build foundational RadiantOne skills before formal training. This repository provides hands-on labs, key terminology, architecture explanations, and end-to-end synchronization exercises for RadiantOne 7.3/7.4—focusing especially on ICS, VDS, HDAP, and Microsoft Graph integrations. It is ideal for engineers preparing for Radiant training or identity data integration projects.
+
+---
+
+## 📘 Purpose of This Repository
+RadiantOne is a powerful identity data virtualization and synchronization platform, but its concepts can feel unfamiliar without proper grounding. This repo provides:
+
+- Clear, practical labs (Azure AD → HDAP → VDS)
+- Exhaustive definitions of core RadiantOne terminology
+- A structured workflow for learning ICS pipelines
+- Pre-training notes, architecture references, and diagrams
+- Step-by-step operations and troubleshooting guidance
+
+---
+
+## 📂 Repository Structure
+
+radiantone-prep-labs/
+│
+├── README.md # Overview + starting guide
+│
+├── docs/
+│ ├── key-terms.md # Exhaustive definitions of RadiantOne terms
+│ ├── azure-ad-mini-lab.md # Full Azure AD → HDAP → VDS lab guide
+│ ├── architecture-overview.md # Conceptual diagrams of Radiant flows
+│ ├── pipelines-basics.md # Understanding ICS pipelines
+│ └── troubleshooting.md # Common errors and how to fix them
+│
+└── labs/
+├── lab-01-csv-to-hdap/ # Beginner ICS pipeline lab
+└── lab-02-azuread-sync/ # AzureAD Microsoft Graph sync lab
+
+
+---
+**Descriptions**
+
+- `README.md` — Overview + starting guide  
+- `key-terms.md` — Exhaustive RadiantOne terminology  
+- `azure-ad-mini-lab.md` — Full Azure AD → HDAP → VDS lab  
+- `architecture-overview.md` — Conceptual diagrams  
+- `pipelines-basics.md` — ICS pipeline fundamentals  
+- `troubleshooting.md` — Common error resolution  
+- `lab-01-csv-to-hdap` — Beginner ICS lab  
+- `lab-02-azuread-sync` — Azure AD Microsoft Graph sync lab  
+
+This content is entirely sanitized and generic. No customer-specific information is included.
 
 ---
 
